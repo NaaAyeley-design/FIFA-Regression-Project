@@ -10,7 +10,7 @@ import joblib
 
 # Load the trained model
 #model = joblib.load("C:\Users\nayel\Downloads\model.pkl")
-model = joblib.load(r"./model.pkl")
+model = joblib.load("model.pkl")
 
 
 # Define the function for prediction
